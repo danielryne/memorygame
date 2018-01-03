@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/ff/ElevenImage.jpg/revision/latest/scale-to-width-down/310?cb=20161021182816",
+    "clicked": false
+  },
+  {
+    "id": 2, 
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/e4/Will_Byers.png/revision/latest?cb=20170124225951",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/0c/Joyce_portrait.jpg/revision/latest/scale-to-width-down/310?cb=20161021184428",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/ff/Lucas_Sinclair_001.png/revision/latest?cb=20160804154451",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/48/Mike_Wheeler_S1.png/revision/latest/scale-to-width-down/310?cb=20171025205131",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/3b/Dustin_Henderson.jpg/revision/latest/scale-to-width-down/310?cb=20161021183800",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/ff/Demogorgon_-_Chapter_Eight.jpg/revision/latest/scale-to-width-down/310?cb=20170322074046",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/bc/Jim_Hopper_S2.png/revision/latest/scale-to-width-down/310?cb=20171130070757",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/06/Dr_Martin_Brenner_version_3.png/revision/latest/scale-to-width-down/305?cb=20170416110233",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/78/Image.jpg/revision/latest/scale-to-width-down/310?cb=20171113113237",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/81/Bob_Newby.png/revision/latest?cb=20170928190131",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/46/Barbara_Holland.png/revision/latest/scale-to-width-down/292?cb=20170314234835",
+    "clicked": false
+  }
+]
