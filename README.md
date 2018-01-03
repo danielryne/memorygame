@@ -4,4 +4,4 @@ Can you find Will Byers? This game tests your memory of which Stranger Things ch
 
 This game was built using React, JSX, CSS and Bootstrap. Images are from [Stranger Things Wiki](http://strangerthings.wikia.com/wiki/Stranger_Things_Wiki)
 
-![Stranger Clicks Image]()
+![Stranger Clicks Image](https://github.com/danielryne/memorygame/blob/master/src/components/Header/stranger-clicks.png)
